@@ -1,0 +1,3 @@
+for i in range(1, 12,1): # 1 to 10 default is always 1
+    print("Hello World",i)   # if i add i it will show numbers 1,2,3,4,5,6....
+
